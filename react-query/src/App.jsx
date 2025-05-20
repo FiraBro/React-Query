@@ -19,6 +19,7 @@ export default function App() {
           <button className="px-6 py-3 bg-amber-50 text-amber-300 hover:bg-amber-200 hover:text-amber-600 transition duration-300 rounded-2xl">
             ChatGPT
           </button>
+          <p>yopu are legend boy</p>
         </div>
       </div>
     </div>
